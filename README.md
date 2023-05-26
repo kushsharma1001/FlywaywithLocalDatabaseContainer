@@ -1,4 +1,4 @@
-# Run a local database container to connect with Springboot Application
+# Run a local postgres database container to connect with Springboot Application
 
  In this example, we will run a Springboot app which will connect with a local database running in docker container.
  Additionally, we will see Flyway script in action to create a table in the database.
